@@ -2,7 +2,7 @@
 
 ![ML](https://img.shields.io/badge/ML-Algorithms_From_Scratch-blue.svg) 
 
-## Objectives :
+## Objectives:
 
 This repository contains implementations of basic machine learning algorithms in Python and Numpy. All algorithms are implemented from scratch without using additional machine learning libraries. 
 
